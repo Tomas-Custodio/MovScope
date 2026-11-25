@@ -1,8 +1,11 @@
+<img width="1905" height="992" alt="movscope-1-lista" src="https://github.com/user-attachments/assets/208dc83c-d06c-44bd-b0a3-781f1c93852b" />
 # 🎬 MovScope
 
 O **MovScope** é um projeto de desenvolvimento web, sem fins comerciais, dedicado à descoberta e consulta de filmes e séries.
 
-O seu objetivo é facilitar a descoberta de novos filmes e séries, reunindo informações cinematográficas numa única plataforma, de forma simples e intuitiva.
+O seu objetivo é facilitar a descoberta de novos filmes e séries, reunindo informações cinematográficas numa única plataforma, de forma simples e intuitiva.<img width="1905" height="992" alt="movscope-3-trailer" src="https://github.com/user-attachments/assets/554b67de-e46a-401d-93f2-68e1ce362dc1" />
+<img width="1905" height="992" alt="movscope-2-detalhes" src="https://github.com/user-attachments/assets/1d0cc8d4-0414-4b19-ab1a-28e2896d1081" />
+
 
 ---
 
